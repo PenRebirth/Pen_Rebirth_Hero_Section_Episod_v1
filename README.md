@@ -16,6 +16,12 @@ This is the first episode in a series of hero sections, with more coming soon! �
 ✅ Well-Structured Code 🏗️  
 ## 🛠️ Technologies Used  
 
+---
+
+## 🔗 Live Demo  
+[![🌐 View Live Demo](https://img.shields.io/badge/View-Live%20Demo-brightgreen?style=for-the-badge)](https://penrebirth.github.io/Pen_Rebirth_Hero_Section_Episod_v1/)
+
+---
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,11 +49,6 @@ Rebirth_Core_Hero_Section_Episodes/
 3. Customize it as needed.  
 
 [![Download Pen Rebirth Hero Section v1.0.0](https://img.shields.io/badge/📥%20Download%20Pen%20Rebirth%20Hero%20Section%20-v1.0.0-blue?style=for-the-badge)](https://github.com/PenRebirth/Pen_Rebirth_Hero_Section_Episod_v1/releases/tag/v1.0.0)
-
----
-
-## 🔗 Live Demo  
-[![🌐 View Live Demo](https://img.shields.io/badge/View-Live%20Demo-brightgreen?style=for-the-badge)](https://penrebirth.github.io/Pen_Rebirth_Hero_Section_Episod_v1/)
 
 ---
 
