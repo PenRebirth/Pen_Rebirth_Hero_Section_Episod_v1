@@ -31,7 +31,7 @@ This is the first episode in a series of hero sections, with more coming soon! �
 ## 📂 Project Structure  
 
 ```
-Rebirth_Core_Hero_Section_Episodes/
+Pen_Rebirth_Hero_Section_Episodes/
 │── index.html      # Main HTML file  
 │── assets/         # Assets folder  
 │   ├── css/        # Stylesheets  
