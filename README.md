@@ -60,11 +60,11 @@ My Public Address to Receive **USDT**:
 
 ## 📫 Connect with Me:  
 
-[![Twitter](https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Pen__Rebirth)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/PenRebirth)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pen_rebirth_01)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/penrebirth𓅆-b27647291)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pen_rebirth)  
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RebirthCoreCommunity)  
+![Twitter](https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/Pen__Rebirth)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/PenRebirth)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/pen_rebirth_01)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/penrebirth𓅆-b27647291)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@pen_rebirth)
+![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/RebirthCoreCommunity) 
 
 💡 Let's **Innovate, Build, and Rebirth the Future Together!** 🚀  
