@@ -44,7 +44,7 @@ Pen_Rebirth_Hero_Section_Episodes/
 
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/RebirthCore/Pen_Rebirth_Hero_Section_Episod_v1.git
+   git clone https://github.com/PenRebirth/Pen_Rebirth_Hero_Section_Episod_v1.git
    ```
 2. **Open `index.html`** in your browser.  
 3. Customize it as needed.  
