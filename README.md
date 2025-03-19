@@ -1,11 +1,11 @@
-# Pen Rebirth Hero Section Episodes
+# Rebirth Core Hero Section Episodes
 
-🚀 **Code written by Pen Rebirth - Joy Feelz & Maintained by Rebirth Core** 🚀
+🚀 **Code written by Rebirth Core - Joy Feelz & Maintained by Rebirth Core** 🚀
 
-Welcome to **Pen Rebirth Hero Section** – A beautifully designed and responsive hero section for web projects. 
+Welcome to **Rebirth Core Hero Section** – A beautifully designed and responsive hero section for web projects. 
 This is the first episode in a series of hero sections, with more coming soon! 🚀  
 
-✅ Code written by **Pen Rebirth - Joy Feelz**  
+✅ Code written by **Rebirth Core - Joy Feelz**  
 ✅ Maintained by **Rebirth Core**  
 
 ## 📌 Features  
@@ -25,13 +25,13 @@ This is the first episode in a series of hero sections, with more coming soon! �
 ---
 
 ## 🔗 Live Demo  
-[![🌐 View Live Demo](https://img.shields.io/badge/View-Live%20Demo-brightgreen?style=for-the-badge)](https://penrebirth.github.io/Pen_Rebirth_Hero_Section_Episod_v1/)
+[![🌐 View Live Demo](https://img.shields.io/badge/View-Live%20Demo-brightgreen?style=for-the-badge)](https://rebirthcore.github.io/Rebirth_Core_Hero_Section_Episod_v1/)
 
 ---
 ## 📂 Project Structure  
 
 ```
-Pen_Rebirth_Hero_Section_Episodes/
+Rebirth_Core_Hero_Section_Episodes/
 │── index.html      # Main HTML file  
 │── assets/         # Assets folder  
 │   ├── css/        # Stylesheets  
@@ -44,16 +44,16 @@ Pen_Rebirth_Hero_Section_Episodes/
 
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/PenRebirth/Pen_Rebirth_Hero_Section_Episod_v1.git
+   git clone https://github.com/RebirthCore/Rebirth_Core_Hero_Section_Episod_v1.git
    ```
 2. **Open `index.html`** in your browser.  
 3. Customize it as needed.  
 
-[![Download Pen Rebirth Hero Section v1.0.0](https://img.shields.io/badge/📥%20Download%20Pen%20Rebirth%20Hero%20Section%20-v1.0.0-blue?style=for-the-badge)](https://github.com/PenRebirth/Pen_Rebirth_Hero_Section_Episod_v1/releases/tag/v1.0.0)
+[![Download Pen Rebirth Hero Section v1.0.0](https://img.shields.io/badge/📥%20Download%20Rebirth%20Core%20Hero%20Section%20-v1.0.0-blue?style=for-the-badge)](https://github.com/RebirthCore/Rebirth_Core_Hero_Section_Episod_v1/releases/tag/v1.0.0)
 
 ---
 
-[![Buy Me Coffee](https://img.shields.io/badge/Buy%20Me%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourprofile)
+[![Buy Me Coffee](https://img.shields.io/badge/Buy%20Me%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://link.trustwallet.com/send?coin=20000714&address=0x2503A7AD18baf9C575E24CA88D18e34163128aEA&token_id=0x55d398326f99059fF775485246999027B3197955)
 
 Do you like our work?  
 You can **Support Us with a Coffee** ☕
